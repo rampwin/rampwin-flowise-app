@@ -38,4 +38,4 @@ RUN yarn build
 
 EXPOSE 3000
 
-CMD [ "yarn", "start", "—-DEBUG=true" ]
+CMD [ "yarn", "start", "--DEBUG=true" ]
